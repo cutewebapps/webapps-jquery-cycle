@@ -1,0 +1,10 @@
+{
+    "name"    : "webapps-jquery-cycle-lib", 
+    "version" : "0.1.0",
+    "classes" : ["JQueryCycle"],
+    "static"  : ["jqeury-cycle"],
+    "deps"    : [
+        "webapps-framework-lib",
+	"webapps-jquery-lib"
+    ]
+}
